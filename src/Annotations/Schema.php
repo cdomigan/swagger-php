@@ -293,7 +293,7 @@ class Schema extends AbstractAnnotation
      *
      * @var bool|object
      */
-    public $additionalProperties = UNDEFINED;
+    public $additionalProperties = false;
 
     /**
      * http://json-schema.org/latest/json-schema-validation.html#rfc.section.6.10
