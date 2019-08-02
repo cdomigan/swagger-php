@@ -11,6 +11,8 @@ namespace OpenApi\Annotations;
  */
 class Property extends Schema
 {
+    public $additionalProperties = UNDEFINED;
+
     /**
      * The key into Schema->properties array.
      *

@@ -11,6 +11,8 @@ namespace OpenApi\Annotations;
  */
 class AdditionalProperties extends Schema
 {
+    public $additionalProperties = UNDEFINED;
+
     /**
      * @inheritdoc
      */
