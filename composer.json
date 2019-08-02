@@ -1,5 +1,5 @@
 {
-  "name": "zircote/swagger-php",
+  "name": "primasoftware/swagger-php",
   "type": "library",
   "license": "Apache-2.0",
   "bin": [
@@ -23,6 +23,10 @@
       "name": "Bob Fanger",
       "email": "bfanger@gmail.com",
       "homepage": "http://bfanger.nl"
+    },
+    {
+      "name": "Chris Domigan",
+      "email": "chris.domigan@primasoftware.com"
     }
   ],
   "config": {
